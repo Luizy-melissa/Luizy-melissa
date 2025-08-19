@@ -1,16 +1,38 @@
-## Hi there 👋
+# 🌸 Olá, eu sou a Luizy Melissa 💻✨  
 
-<!--
-**Luizy-melissa/Luizy-melissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu cantinho no GitHub!  
+Estou iniciando minha jornada no **mundo da programação de jogos e desenvolvimento de sites**.  
+Aprender algo novo todos os dias tem sido uma experiência incrível e estou muito feliz por estar aqui! 💜💖  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Sobre mim
+- 👩‍💻 Estudando programação e desenvolvimento web/jogos  
+- 🎮 Apaixonada por tecnologia, criatividade e inovação  
+- 🌱 Sempre em busca de aprender e crescer  
+
+---
+
+## 💜 Tecnologias que estou aprendendo
+- HTML 🌸  
+- CSS 💖  
+- JavaScript 💜  
+- Outras linguagens e ferramentas em breve...  
+
+---
+
+## 🎨 Estilo
+Adoro o **lilás** e o **rosa**, porque me inspiram leveza, alegria e criatividade.  
+Esse espaço será o reflexo da minha evolução no mundo da programação ✨  
+
+---
+
+## 🚀 Objetivo
+Construir projetos que unam **design criativo + programação**  
+e compartilhar cada conquista com a comunidade 💕  
+
+
+---
+
+📫 Entre em contato comigo:  
+[![GitHub](https://img.shields.io/badge/GitHub-rosa?style=for-the-badge&logo=github&logoColor=white&color=FF69B4)](https://github.com/)  
