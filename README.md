@@ -1,4 +1,4 @@
-# 🌸 Olá, eu sou a Luizy Melissa 💻✨  
+#  Olá, eu sou a Luizy Melissa 💻✨  
 
 -  Bem-vindo(a) ao meu cantinho no GitHub!
    
